@@ -12,3 +12,4 @@ My goal is to master **advanced mathematical methods for data analysis**—inclu
 
 *Every commit is a step toward writing cleaner code, solving complex math, and boosting development efficiency.*
 .
+![Views](https://mojoauth.com)
