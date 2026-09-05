@@ -11,5 +11,4 @@ My goal is to master **advanced mathematical methods for data analysis**—inclu
 * **Financial Analytics:** Market spread prediction leveraging PyCaret and machine learning.
 
 *Every commit is a step toward writing cleaner code, solving complex math, and boosting development efficiency.*
-.
-![Views](https://mojoauth.com)
+
