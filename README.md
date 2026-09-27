@@ -17,11 +17,19 @@ All calculations, algorithms, and visualizations are developed in close collabor
 
 ---
 
-### 🚀 Key Areas of Exploration
+---
+
+---
+
+### 🚀 Evolving Areas of Exploration
+
+*This list is non-exhaustive and continuously expanding as we actively research, adapt, and integrate new methodologies:*
 
 *   **Intelligent Mathematical Modeling:** Practical implementation of Quantum Computing basics, Topological Data Analysis (TDA), and Bayesian Statistics.
 *   **Game Theory & Decision Frameworks:** Stochastic optimization models, optimal transport (Wasserstein Distance), and Bellman's Backwards Induction.
-*   **Applied Analytics:** Predictive modeling and data quality workflows leveraging frameworks like PyCaret.
+*   **Applied Analytics & Optimization:** Predictive modeling and data quality workflows leveraging frameworks like PyCaret.
+*   **Code Adaptation & Data Refinement:** Actively adapting third-party mathematical code with a strict focus on computational efficiency. This includes profiling, resource-saving optimizations, and debugging anomalies or artifacts inside synthetically generated datasets.
+
 
 
 
